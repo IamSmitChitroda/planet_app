@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Mercury",
+    "description": "Mercury is the closest planet to the Sun...",
+    "image": "assets/images/mercury.png",
+    "distanceFromSun": 57.9,
+    "gravity": 3.7
+  },
+  {
+    "name": "Venus",
+    "description": "Venus is the second planet from the Sun...",
+    "image": "assets/images/venus.png",
+    "distanceFromSun": 108.2,
+    "gravity": 8.87
+  }
+]
