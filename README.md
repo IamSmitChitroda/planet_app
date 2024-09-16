@@ -25,7 +25,12 @@ users to explore the wonders of the galaxy through captivating animations.
 - **Local Storage**: Stores favorites and user preferences using shared preferences.
 - **Responsive UI**: Ensures that the app runs smoothly on both Android and iOS devices with responsive layouts.
 
-## Screenshots
+## Video
+
+
+
+https://github.com/user-attachments/assets/a9220cda-d04f-42f1-8cde-a80898873499
+
 
 ## Installation
 
