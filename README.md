@@ -36,7 +36,7 @@ https://github.com/user-attachments/assets/a9220cda-d04f-42f1-8cde-a80898873499
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/galaxy-planets-animator.git
+   git clone https://github.com/IamSmitChitroda/planet_app.git
 
 2. **Flutter SDK Version**:
    ```bash
